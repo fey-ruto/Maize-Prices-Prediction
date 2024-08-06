@@ -51,10 +51,6 @@ To set up the environment and install the necessary packages, follow these steps
      ```bash
      .\maize_price_env\Scripts\activate
      ```
-   - On macOS and Linux:
-     ```bash
-     source maize_price_env/bin/activate
-     ```
 
 4. **Install Required Packages**:
    ```bash
